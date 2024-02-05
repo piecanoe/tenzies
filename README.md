@@ -19,7 +19,7 @@ Roll all ten of your dice to the same number and win!
 
 ### The challenge
 
-Objective: Roll all ten of your dice to the same number to win the game!
+Objective: Create Tenzies game that allows players to click each 'die' to freeze the number on the die. Then clicking "Roll" button will generate new numbers on the dice that were not previously held. After all held dice are the same number value, the player wins and confetti will rain down the page.
 
 Users should be able to:
 
@@ -43,10 +43,9 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- Semantic HTML5 markup
-- CSS custom properties
+- HTML5
+- CSS3
 - Flexbox
-- CSS Grid+3
 - [Confetti Effect](https://github.com/alampros/react-confetti?tab=readme-ov-file#readme) - This is the Confetti effect I used that triggers when the player wins the game
 
 ### Continued development
@@ -66,3 +65,4 @@ I would like to add other functions to this application in the future:
 ## Acknowledgments
 
 I learned how to build this with the help of Bob Ziroll and Scrimba.
+- [Scrimba](https://scrimba.com/learn/learnreact)
