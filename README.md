@@ -17,9 +17,9 @@ Roll all ten of your dice to the same number and win!
 
 ## Overview
 
-### The challenge
+### Objective
 
-Objective: Create Tenzies game that allows players to click each 'die' to freeze the number on the die. Then clicking "Roll" button will generate new numbers on the dice that were not previously held. After all held dice are the same number value, the player wins and confetti will rain down the page.
+Create Tenzies game that allows players to click each 'die' to freeze the number on the die. Then clicking "Roll" button will generate new numbers on the die that were not previously held. After all held dice are the same number value, the player wins and confetti will rain down the page.
 
 Users should be able to:
 
