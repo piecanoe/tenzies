@@ -11,8 +11,8 @@ body {
 
 main {
   margin: 0 auto;
-  width: 320px;
-  height: 320px;
+  width: 400px;
+  height: 400px;
   border-radius: 10px;
   background: #F5F5F5;
   display: flex;
@@ -33,7 +33,7 @@ main {
   margin-top: 0;
   padding: 10px 0;
   text-align: center;
-  font-size: .8rem;
+  font-size: 1.1rem;
 }
 
 .dice-container {
@@ -44,8 +44,8 @@ main {
 }
 
 .die {
-  width: 35.84px;
-  height: 35.84px;
+  width: 50px;
+  height: 50px;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
   border-radius: 3.81px;
   display: flex;
@@ -57,14 +57,14 @@ main {
 
 .die-num {
   font-weight: 700;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   color:#2B283A;
 }
 
 .roll-button {
   background: #121ec9;
   width: 150px;
-  height: 35.84px;
+  height: 50px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -72,7 +72,7 @@ main {
   border: none;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.3rem;
   color: #ffffff;
   cursor: pointer;
   padding: 15px;
