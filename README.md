@@ -19,19 +19,21 @@ Roll all ten of your dice to the same number and win!
 
 ### Objective
 
-Create Tenzies game that allows players to click each 'die' to freeze the number on the die. Then clicking "Roll" button will generate new numbers on the die that were not previously held. After all held dice are the same number value, the player wins and confetti will rain down the page.
+
+Develop a Tenzies game where players can click on individual dice to lock in specific numbers. Pressing the "Roll" button generates new numbers on the unfrozen dice. The objective is to align all dice to display the same number, triggering a subdued confetti effect upon achieving victory.
 
 Users should be able to:
 
-- Click a 'dice' to hold it
-- Held dice should be green
-- Click 'roll' to roll any dice that aren't held
-- Once all held dice are matching, confetti should rain down the page
-- Player can click 'new game' to start a new game
+- Click a 'die' to hold it
+- Held dice should change color
+- Click 'Roll' to roll any dice that aren't held
+- Once all held dice are matching, confetti will rain down the page
+- Player can click 'New Game' to start a new game
 
 ### Screenshot
 
-![tenzies_screenshot](https://github.com/piecanoe/tenzies/assets/122697843/dcd956b3-8302-48dc-bcd0-aa077a7fbd27)
+![](./screenshots/tenzies_screenshot.png)
+
 
 ### Links
 
