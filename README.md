@@ -31,8 +31,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshots/tenzies_screenshot.png)
-
+![tenzies_screenshot](https://github.com/piecanoe/tenzies/assets/122697843/dcd956b3-8302-48dc-bcd0-aa077a7fbd27)
 
 ### Links
 
